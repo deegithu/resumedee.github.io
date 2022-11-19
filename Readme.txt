@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
+Template Name:deeksha
+Template URL: https://deegithu/resumedee.github.io
+Author: deeksha 
 License: https://bootstrapmade.com/license/
